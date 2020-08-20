@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/yemisi-codes/project-five/static/css/main.eff556d5.chunk.css",
-    "main.js": "/yemisi-codes/project-five/static/js/main.1d5f964d.chunk.js",
-    "main.js.map": "/yemisi-codes/project-five/static/js/main.1d5f964d.chunk.js.map",
-    "runtime-main.js": "/yemisi-codes/project-five/static/js/runtime-main.f573218a.js",
-    "runtime-main.js.map": "/yemisi-codes/project-five/static/js/runtime-main.f573218a.js.map",
-    "static/js/2.8e2fbbba.chunk.js": "/yemisi-codes/project-five/static/js/2.8e2fbbba.chunk.js",
-    "static/js/2.8e2fbbba.chunk.js.map": "/yemisi-codes/project-five/static/js/2.8e2fbbba.chunk.js.map",
-    "index.html": "/yemisi-codes/project-five/index.html",
-    "precache-manifest.8b2d4b7d8b28354578890a5306f049cb.js": "/yemisi-codes/project-five/precache-manifest.8b2d4b7d8b28354578890a5306f049cb.js",
-    "service-worker.js": "/yemisi-codes/project-five/service-worker.js",
-    "static/css/main.eff556d5.chunk.css.map": "/yemisi-codes/project-five/static/css/main.eff556d5.chunk.css.map",
-    "static/js/2.8e2fbbba.chunk.js.LICENSE.txt": "/yemisi-codes/project-five/static/js/2.8e2fbbba.chunk.js.LICENSE.txt"
+    "main.css": "/project-five/static/css/main.eff556d5.chunk.css",
+    "main.js": "/project-five/static/js/main.f2e31928.chunk.js",
+    "main.js.map": "/project-five/static/js/main.f2e31928.chunk.js.map",
+    "runtime-main.js": "/project-five/static/js/runtime-main.d9d034d5.js",
+    "runtime-main.js.map": "/project-five/static/js/runtime-main.d9d034d5.js.map",
+    "static/js/2.8e2fbbba.chunk.js": "/project-five/static/js/2.8e2fbbba.chunk.js",
+    "static/js/2.8e2fbbba.chunk.js.map": "/project-five/static/js/2.8e2fbbba.chunk.js.map",
+    "index.html": "/project-five/index.html",
+    "precache-manifest.8d048d0dd050f79ec663467c95ae5369.js": "/project-five/precache-manifest.8d048d0dd050f79ec663467c95ae5369.js",
+    "service-worker.js": "/project-five/service-worker.js",
+    "static/css/main.eff556d5.chunk.css.map": "/project-five/static/css/main.eff556d5.chunk.css.map",
+    "static/js/2.8e2fbbba.chunk.js.LICENSE.txt": "/project-five/static/js/2.8e2fbbba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f573218a.js",
+    "static/js/runtime-main.d9d034d5.js",
     "static/js/2.8e2fbbba.chunk.js",
     "static/css/main.eff556d5.chunk.css",
-    "static/js/main.1d5f964d.chunk.js"
+    "static/js/main.f2e31928.chunk.js"
   ]
 }
