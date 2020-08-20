@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yemisi-codes/project-five/precache-manifest.c60dd6744516a7c53d7c0045fad1c0e8.js"
+  "/yemisi-codes/project-five/precache-manifest.8b2d4b7d8b28354578890a5306f049cb.js"
 );
 
 self.addEventListener('message', (event) => {
